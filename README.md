@@ -4,12 +4,12 @@ Node.js Puppeteer Scraper for TripAdvisor
 To keep the project bundle smaller, I have gitIgnored the node_modules.
 To get started,run the following in the terminal:
 
-npm install puppeteer --save
-npm install
+==>  npm install puppeteer --save
+==>  npm install
 
 //Now the dependencies have been installed, lets run the app
 
-node scraper.js
+==> node scraper.js
 
 //Check the terminal logs --> it prints an array of reviews about places.
 Places can be changed by modifying the URL placed in the scraper.js
