@@ -5,6 +5,7 @@ To keep the project bundle smaller, I have gitIgnored the node_modules.
 To get started,run the following in the terminal:
 
 ==>  npm install puppeteer --save
+
 ==>  npm install
 
 //Now the dependencies have been installed, lets run the app
